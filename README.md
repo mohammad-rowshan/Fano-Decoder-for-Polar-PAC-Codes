@@ -10,7 +10,7 @@ M. Rowshan, A. Burg and E. Viterbo, "Complexity-efficient Fano Decoding of Polar
 
 https://ieeexplore.ieee.org/document/9366116
 
-This Python project provides different versions of Fano-like decoder for PAC codes (also can be used for polar codes by choosing convolutional polynomial $\mathbf{g}=[1]$) described in the aformentioned papers.
+This Python project provides different versions of Fano-like decoder for PAC codes (also can be used for polar codes by choosing the convolutional polynomial $\mathbf{g}=[1]$) described in the aformentioned papers.
 This algorithm requires to store $N-1$ intermediate LLRs and partial sums. Alternatively, you can store all of them, i.e., $N \cdot \log_2 N$.
 The algorithm might be confusing. If you have questions about it, you can contact me.
 
