@@ -18,5 +18,9 @@ Note that the algorithmic procedure of updating the intermediate LLRs can be sim
 
 https://arxiv.org/abs/2109.10466
 
+You may find all the materials in the following thesis as well:
+
+https://bridges.monash.edu/articles/thesis/Towards_Enhanced_Decoding_of_Polar_Codes_and_PAC_Codes/16892479
+
 
 Please report any bugs to mrowshan at ieee dot org
